@@ -7,14 +7,10 @@ td{
     width: 75%;
 }
 h1{
-    text-align: center;
     color: #004DAA;
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-}
-#divid{
-    margin-left: 400px;
 }
 table, th, td {
     border: 1px solid wheat;
